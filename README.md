@@ -1,3 +1,5 @@
+https://habr.com/ru/post/539736/
+
 # mailserver-autosetup
 Script for automatic setup mail server on Debian 10 Buster
 
